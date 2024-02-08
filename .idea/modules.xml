@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/hackerHank-challenges.iml" filepath="$PROJECT_DIR$/hackerHank-challenges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hackerRank-challenges.iml" filepath="$PROJECT_DIR$/hackerRank-challenges.iml" />
     </modules>
   </component>
 </project>
