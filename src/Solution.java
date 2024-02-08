@@ -1,32 +1,6 @@
 import java.util.Scanner;
 
-/*Complete the function solveMeFirst to compute the sum of two integers.
-
-Example
-
-Return .
-
-Function Description
-
-Complete the solveMeFirst function in the editor below.
-
-solveMeFirst has the following parameters:
-
-int a: the first value
-int b: the second value
-Returns
-- int: the sum of  and
-
-Constraints
-
-
-Sample Input
-
-a = 2
-b = 3
-Sample Output
-
-5*/
+/*Complete the function solveMeFirst to compute the sum of two integers.Returns - int: the sum of a and b*/
 public class Solution {
 
     static int solveMeFirst(int a, int b) {
