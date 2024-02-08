@@ -5,7 +5,7 @@
   covering various domains such as algorithms, data structures, artificial intelligence, and more. Engaging in these problem-solving exercises offers several key benefits: Skill Enhancement,
 Algorithmic Thinking, Language Proficiency, Real-world Applications.</p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 <div>
   <img src="https://img.shields.io/badge/logo-java-blue?logo=java">
 </div>
